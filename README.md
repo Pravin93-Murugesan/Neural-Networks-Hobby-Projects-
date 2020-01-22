@@ -2,8 +2,9 @@
 
 Neural networks are trained to recognize images. MNIST dataset (handwritten digits as images) is used and the work is done with Keras (an open-source neural-network library written in Python).
 
-<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" alt="alt text" width="300">
 An example of handwritten digits
+<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" alt="alt text" width="300">
+
 
   1. Compiling and training a neural network model
   2. Accuracy and evaluation of a neural network model
