@@ -5,5 +5,11 @@ Neural networks are trained to recognize and classify images. MNIST dataset (han
 <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300">
 
 The work includes:
-  1. Compiling and training a neural network model
-  2. Accuracy and evaluation of a neural network model
+  1. Compiling and training a neural network model / convolutional neural network model
+  2. Accuracy and evaluation of a neural network model / convolutional neural network model
+  
+  Fully connected neural network model
+  
+  
+  Processes involved in a convolutional neural network model
+  
