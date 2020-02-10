@@ -6,7 +6,7 @@ Neural networks are trained to recognize and classify images. MNIST dataset (han
 <!-- writing the markdown for each image on the same line --> 
 <!-- and center align --> 
 <p align="center">
-<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exampleIMG.png" width="250">
+<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exampleIMG.png" width="200">
 </p>
 
 The work includes:
@@ -18,12 +18,15 @@ The work includes:
 <!-- or a backslash -->
 Fully connected neural network model  
 
+<p align="center">
 <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/neural_net2.jpeg" width="400">
-  
+</p>
+
 Processes involved in a convolutional neural network model\ 
 
+<p align="center">
 <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/cnn-model.jpg" width="600">
-
+</p>
 
 To view the project work, open:
 - Introduction to Neural Networks.ipynb
