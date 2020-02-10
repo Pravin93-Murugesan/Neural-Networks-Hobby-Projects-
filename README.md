@@ -6,7 +6,7 @@ Neural networks are trained to recognize and classify images. MNIST dataset (han
 <!-- writing the markdown for each image on the same line --> 
 <!-- and center align --> 
 <p align="center">
-<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exampleIMG.png" width="200">
+<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exIMG.png" width="200">
 </p>
 
 The work includes:
