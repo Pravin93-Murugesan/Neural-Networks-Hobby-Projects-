@@ -13,4 +13,4 @@ Fully connected neural network model
 <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/neural_net2.jpeg" width="400">
   
 Processes involved in a convolutional neural network model
-<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/cnn_model.png" width="100">
+<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/cnn-model.jpg" width="600">
