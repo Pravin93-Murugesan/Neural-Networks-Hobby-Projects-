@@ -31,4 +31,4 @@ Processes involved in a convolutional neural network model\
 To view the project work, open:
 - Introduction to Neural Networks.ipynb
 - Introduction to Convolution Neural Networks.ipynb
-- Use the Jupyter nbviewer links [Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Convolution%20Neural%20Networks.ipynb) and [Convolution Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Convolution%20Neural%20Networks.ipynb), try the option 'Execute on Binder' to play with the code and learn/refresh machine learning concepts
+- Use the Jupyter nbviewer links [Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Neural%20Networks.ipynb) and [Convolution Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Convolution%20Neural%20Networks.ipynb), try the option 'Execute on Binder' to play with the code and learn/refresh machine learning concepts
