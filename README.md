@@ -5,7 +5,7 @@ With increasing reserach work carried out in deep learning over the last decade,
 In this hobby project, the work is related to the first mentioned application. On Jupyter notebooks, one will find detailed information on:
 - Compiling and training a neural network model
 - Accuracy and evaluation of a neural network model
-- Convolutional neural networks in Keras
+- Convolutional neural networks (CNN) in Keras
 - Modifying pre-trained neural networks
   - Enhancements to convolutional neural networks (Transfer Learning)
   - Modifying pre-trained neural networks
@@ -39,3 +39,9 @@ To view the project work, open:
 - Introduction to Neural Networks.ipynb
 - Introduction to Convolution Neural Networks.ipynb
 - Or use the Jupyter nbviewer links [Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Neural%20Networks.ipynb) and [Convolution Neural Networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/Introduction%20to%20Convolution%20Neural%20Networks.ipynb), try the option 'Execute on Binder' to play with the code and learn/refresh machine learning concepts
+
+*or if you want to jump to CNN directly*  
+- Training_and_evaluation_CNN.ipynb
+- TransferLearning_Tuning_CNN.ipynb
+- Use the Jupyter nbviewer links [CNN](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-and-Image-Recognition/blob/master/Training_and_evaluation_CNN.ipynb) and [Pre-trained neural networks](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Neural-Networks-and-Image-Recognition/blob/master/TransferLearning_Tuning_CNN.ipynb)
+
